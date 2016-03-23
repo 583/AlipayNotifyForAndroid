@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">即时到帐辅助</string>
+    <string name="hello_world">回调地址</string>
+    <string name="action_settings">设置</string>
+    <string name="start_btn">开始监控</string>
+    <string name="TextViewMethod">回调方法</string>
+    <string name="TextViewCBParams">回调参数字串</string>
+    <string name="RadioPost">POST</string>
+    <string name="RadioGet">GET</string>
+    <string name="accessibility_description">即时到帐监控程序</string>
+
+</resources>
